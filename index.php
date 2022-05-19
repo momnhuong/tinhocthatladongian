@@ -1,4 +1,2 @@
 Hello Jenkins<br>
-hello Nhuong
-Test:wq
-
+Ca ngat hom qua khong chay duoc 
